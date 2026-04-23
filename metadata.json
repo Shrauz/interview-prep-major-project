@@ -1,0 +1,7 @@
+{
+  "name": "HirePrep AI: Voice-Powered Mock Interviews",
+  "description": "A professional mock interview platform using Gemini 2.5 Native Audio for real-time voice conversations, providing deep feedback on content and speech quality.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
